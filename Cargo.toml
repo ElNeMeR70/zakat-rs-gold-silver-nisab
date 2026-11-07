@@ -1,0 +1,10 @@
+[package]
+name = "zakat-rs-gold-silver-nisab"
+version = "1.0.0"
+edition = "2021"
+description = "Multi-Karat Gold (85g 24K) & Silver (595g) Nisab Zakat Engine"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "zakat_rs_gold_silver_nisab"
+path = "main.rs"
